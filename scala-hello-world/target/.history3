@@ -1,0 +1,39 @@
+1602190089590:show version
+1602190092485:show name
+1602190095958:show organization
+1602190117401:set organization := com.vijayprakashpj.scala-playground
+1602190133014:set organization := "com.vijayprakashpj.scala-playground"
+1602190138776:last
+1602190148797:show version
+1602190159936:set version := "1.0.0-SNAPSHOT"
+1602190163624:save
+1602190166311:help
+1602190203493:plugins
+1602190226193:reload
+1602190230885:session save
+1602190233270:save
+1602190235397:session
+1602190257409:help session
+1602190265307:session save
+1602190269690:exit
+1602190350638:session save
+1602190362491:show organization
+1602190378416:show organization := "com.vijayprakashpj.scala-playground"
+1602190385631:set organization := "com.vijayprakashpj.scala-playground"
+1602190400782:set version := "1.0.0-SNAPSHOT"
+1602190412972:show scalaVersion
+1602190417604:show sbtVersion
+1602190429314:session save
+1602190442489:exit
+1602190556796:compile
+1602190596923:shell
+1602190598691:help
+1602190651754:exit
+1602190726413:compile
+1602190731503:run
+1602190821806:libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
+1602190833020:set libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
+1602190839142:last
+1602190846090:session save
+1602190852586:reload
+1602190858866:exit
